@@ -1,0 +1,4 @@
+ukozi-static/
+.env
+.nova/
+.git/

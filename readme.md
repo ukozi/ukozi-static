@@ -1,3 +1,5 @@
+![alt text](https://github.com/chuml1/ukozi-static/blob/master/screenshot.jpg?raw=true)
+
 # Ukozi Static Bot for Discord
 Ukozi Static listens for attached files in Discord and scans them with the SentinelOne Static AI via the NEXUS SDK.
 

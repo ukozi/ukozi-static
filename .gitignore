@@ -2,3 +2,4 @@ ukozi-static/
 .env
 .nova/
 .git/
+.DS_Store

@@ -1,3 +1,11 @@
+#
+#	main.py
+#	Ukozi Static
+#
+#	Created by Lucas J. Chumley on 07/10/22.
+#
+
+
 import os
 import nest_asyncio
 import string

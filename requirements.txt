@@ -10,6 +10,6 @@ multidict==6.0.2
 nest-asyncio==1.5.6
 nextcord==2.0.0
 python-dotenv==0.20.0
-SentinelDFI @ file:///Users/lucas/Desktop/NexusSDK_22_3/SDK/SentinelDFI-2-py2.py3-none-any.whl
+SentinelDFI @ SentinelDFI-2-py2.py3-none-any.whl
 vt-py==0.17.0
 yarl==1.7.2

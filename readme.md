@@ -11,4 +11,4 @@ The Nexus Embedded AI software development kit (SDK), enables organizations to p
 The SDK’s portable technology can be leveraged to protect and scan all traffic in cloud services like email and web gateways, CASBs, file sync and share services, traditional file servers, USB scanning kiosks, medical devices, SCADA/ICS instances, containers and many more use cases.
 
 ## If you don't want to install...
-Prefer to just use the bot, rather than run your own? [Here's the invite](https://discord.com/api/oauth2/authorize?client_id=992267176524382209&permissions=536890368&scope=bot)
+If you don't have access to the Nexus SDK and would rather just use the bot, rather than run your own: [Here's the invite to the demo bot.](https://discord.com/api/oauth2/authorize?client_id=992267176524382209&permissions=536890368&scope=bot) You will need to add it to a server where you have permissions to add bots. Since it's a demonstration bot, it may quit working at any time. 
